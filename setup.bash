@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Fujio Ikeda
+#Written by F. Ikeda
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
